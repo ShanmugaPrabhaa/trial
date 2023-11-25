@@ -1,1 +1,32 @@
 test.txt is created
+
+after downloading the git from browser
+step1: open cmd , type "git"
+step2: git config --global user.name "NAME OF THE GITHUB ACCOUNT"
+step3: git config --global user.email "EMAIL ID"
+
+-----DOWNLOAD VS CODE-----
+step1: open the folder
+step2: git clone "link from github of a particular repository"
+step3: if we wnat to create a new file from vscode ad it should be refelect in the github
+  1) create a folder
+  2) to check the status "git status"
+  3) git add "file_name"
+  4) git commit -m ""message""
+  5) git push "file_name"
+
+
+
+------------CREATE A FILE IN THE GITHUB IT SHOULD TREFLECT IN THE VSCODE-----
+
+step1: add a newfile
+step2: type the thing, commit and all stuffs
+step3: go to vscode "git pull"
+--it will pull every changes from the github to the vscode
+
+
+--------delete a file in the vscode and it should be reflect in the github---
+step1: delete the file from the folder"NO CHANGES WILL HAPPEN IN THE GITHUB"
+step2: git add "file_name"
+step3: git commit-m ""message""
+step4: refresh the github "IT WILL SHOW THE RESULT"
