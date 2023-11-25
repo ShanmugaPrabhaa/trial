@@ -1,1 +1,16 @@
-inser/modify/update => add => commit => push/pull
+insert/modify/update => add => commit => push/pull
+------- to create new repository in the vs code and to make them reflect in the github-----
+1) create new folder
+2) git init
+3) change the directory
+4) create all the files
+5) git add .
+6) git commit -m """"
+7) open github "CREATE NEW REPOSITORY"
+8) "TO GET THE ORIGIN LINK"
+9) git remote add "link"
+10) git branch "IT WILL SHOW IT IS MASTER"
+11) git push origin main "WON'T WORK"
+12) git branch -M main
+13) git branch "IT WILL SHOW IT IS MAIN"
+14) git push origin main
