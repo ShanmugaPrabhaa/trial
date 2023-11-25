@@ -1,0 +1,5 @@
+to display the file wqhich is created in the github shoul reflect in the vscode edition 
+for that 
+we have to us the command "git pull"
+after using this "git pull"
+every changes will be reflect in the vscode 
